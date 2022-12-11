@@ -1,0 +1,105 @@
+body{
+    width: 100%;
+}
+.BlockOne {
+    margin: 0 auto;
+    padding: 0 auto;
+    height: 641px;
+    width: 100%;
+}
+
+.nav {
+    display: flex;
+    height: 78px;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    border-bottom: 2px solid;
+    border-color: #E5E5E5;
+}
+
+.imgs {
+    display: flex;
+    padding-right: 21.18px;
+}
+.two_img {
+    height: 38.62px;
+    background-size: cover;
+}
+.one_img {
+    height: 34.77px;
+    background-size: cover;
+    padding-left: 18.71px;
+}
+
+.nav_one {
+    padding-left: 120px;
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+}
+
+.nav_two {
+    display: flex;
+    padding-right: 120px;
+    list-style-type: none;
+    align-items: center;
+}
+
+ul li {
+    padding-left: 22px;
+}
+
+.nav_button {
+    height: 48px;
+    width: 131px;
+    background-color: white;
+    border-radius: 50px;
+    margin-left: 21.29px;
+}
+
+.personal {
+    /* font-family: Nunito; */
+    font-style: regular;
+    font-size: 16px;
+    line-height: 22px;
+    line-height: 100%;
+    align: left;
+    vertical-align: top;
+}
+/* 11111111111111111111111111111 */
+.one_text {
+    margin-top: 204px;
+    margin-left: 120px;
+    text-align: start;
+}
+
+.app_store {
+    height: 47px;
+    width: 166px;
+    margin-right: 20.48px;
+    margin-top: 21.13px;
+}
+
+.one_foto {
+    margin-top: 40px;
+    margin-right: 120px;
+}
+
+.block_one {
+    margin: 0 auto;
+    padding: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    height: 586px;
+}
+
+.phone {
+    height: 546px;
+    width: 585px;
+    left: 660px;
+    top: -74px;
+    border-radius: 0px;
+}
+/* 2222222222222222222222 */
+c

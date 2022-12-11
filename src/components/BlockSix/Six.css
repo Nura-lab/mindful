@@ -1,0 +1,27 @@
+.BlockSix {
+    margin: 0 auto;
+    padding: 0 auto;
+    height: 800px;
+    width: 100%;
+}
+
+.block_six {
+   display: flex;
+   padding-left: 120px;
+   padding-right: 120px;
+   justify-content: space-between;
+}
+
+.six_title {
+    text-align: start;
+}
+
+.six_text_one {
+    height: 104px;
+    width: 478px;
+}
+
+.six_text_two {
+    height: 78px;
+    width: 395px;
+}

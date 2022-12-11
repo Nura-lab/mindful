@@ -1,0 +1,17 @@
+.BlockEight {
+    margin: 0 auto;
+    padding: 0 auto;
+    height: 800px;
+    width: 100%;
+}
+
+.eight_title {
+    text-align: start;
+}
+
+.block_eight {
+   display: flex;
+   padding-left: 120px;
+   padding-right: 120px;
+   justify-content: space-between;
+}

@@ -1,0 +1,83 @@
+.BlockFore {
+    margin: 0 auto;
+    padding: 0 auto;
+    height: 600px;
+    width: 100%;
+}
+
+.fore_text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.fore_button {
+    height: 48px;
+    width: 237px;
+    background-color: white;
+    border-radius: 50px;
+    margin-left: 21.29px;
+}
+
+.four_fotos {
+    display: flex;
+    flex-direction: column;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+.four_fotos_first {
+    display: flex;
+}
+
+.four_fotos_second {
+    display: flex;
+}
+
+#four_one {
+    height: 32px;
+    width: 290px;
+    padding: 0px;
+    margin-left: 164px;
+    margin-right: 112px;
+    background-size: cover;
+}
+
+.four_two {
+    height: 60.7239990234375px;
+    width: 186.70999145507812px;
+    margin-right: 123px;
+}
+
+.four_three {
+    height: 56.5129508972168px;
+    width: 168.28587341308594px;
+    margin-right: 149px;
+}
+
+four_five {
+    height: 69px;
+    width: 69px;
+    margin-left: 224px;
+    margin-right: 171px;
+}
+
+four_six {
+    height: 25.375px;
+    width: 190.25900268554688px;
+    margin-right: 108px;
+}
+
+four_seven {
+    height: 70px;
+    width: 192px;
+    margin-right: 112px;
+}
+
+four_eight {
+    height: 28.85700035095215px;
+    width: 183.68804931640625px;
+    left: 4.6558837890625px;
+    top: 20.572021484375px;
+}

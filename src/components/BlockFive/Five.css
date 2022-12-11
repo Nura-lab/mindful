@@ -1,0 +1,29 @@
+.BlockFive {
+    margin: 0 auto;
+    padding:  0 auto;
+    height: 800px;
+    width: 100%;
+}
+
+.block_five {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 100px;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+.five_foto {
+    height: 589px;
+    width: 585px;
+}
+
+.five_title {
+    text-align: start;
+}
+
+.five_text {
+    height: 182px;
+    width: 475px;
+}
